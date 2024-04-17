@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=milix-m&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="milix-m" />
 </p>
 
-24卒SE。 <br>
-Python, Java, Linux...
+24卒SE。社会人始めました. <br>
+Python, Java, TypeScirpt, Linux...
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milix-M&layout=compact&show_icons=true" />
